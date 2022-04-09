@@ -28,11 +28,12 @@ SQL, C#, Ještě nevím co zvolím (front end)
 
 Kmpletní analýza požadavků. (8 hodin).
 Analýza struktury a formy vyhodnocení zápasů (výpočtu skóre) a generování zápasu (4 hodiny)
-Návrh datové struktury a DB. (8 hodin)
+Návrh datové struktury a DB. (4 hodin)
 Výběr kompletních technologií (3 hodiny)
-Programování back-end (+8 hodin)
-Programování front-end (+8 hodin)
+Programování back-end (8 hodin)
+Programování front-end (8 hodin)
 Generování upozorněnění (4 hodiny).
+Testování (4 hodiny).
 
 9) Otázky
 
