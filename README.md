@@ -26,7 +26,7 @@ SQL, C#, Ještě nevím co zvolím (front end)
 
 7) Časový plán 
 
-Kmpletní analýza požadavků. (8 hodin)
+Kmpletní analýza požadavků. (8 hodin).
 Analýza struktury a formy vyhodnocení zápasů (výpočtu skóre) a generování zápasu (4 hodiny)
 Návrh datové struktury a DB. (8 hodin)
 Výběr kompletních technologií (3 hodiny)
